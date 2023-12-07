@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaCompilerConfiguration">
+    <profile name="sbt 1" modules="demo-app,demo-app-api,demo-app-impl,demo-app-stream-api,demo-app-stream-impl,demo-app_1634,iso-converter-api,iso-converter-impl,lagom-internal-meta-project-cassandra,lagom-internal-meta-project-kafka,lagom-internal-meta-project-service-locator" />
+  </component>
+</project>
